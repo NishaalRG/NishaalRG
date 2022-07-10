@@ -1,6 +1,6 @@
 ### Hi there, I'm Nishaal 👋
 
-## I'm a Web and Discord Bot Developer!!
+## I'm a Web Developer!
 
 - 🌱 I’m currently learning CSS, JavaScript, React
 - 👯 I’m looking to collaborate with other Developers!
