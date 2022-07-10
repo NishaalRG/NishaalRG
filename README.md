@@ -3,9 +3,9 @@
 ## I'm a Web and Discord Bot Developer!!
 
 - 🌱 I’m currently learning CSS, JavaScript, React
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become a Advanced Web Developer!
-- ⚡ Fun fact: I love to listen to 80's Music
+- 👯 I’m looking to collaborate with other Developers!
+- 🥅 2022 Goals: To Become a Advanced Web Developer!
+- ⚡ Fun fact: I love to listen 80's Music
 
 ### Languages and Tools:
 
