@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning CSS, JavaScript, React
 - 👯 I’m looking to collaborate with other Developers!
-- 🥅 2022 Goals: To Become a Advanced Web Developer!
+- 🥅 2024 Goals: To Become a Advanced Web Developer!
 
 ### Languages and Tools:
 
